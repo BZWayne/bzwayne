@@ -28,7 +28,7 @@ education: ["MSc in Robotics Engineering", "BSc in Robotics & Mechatronics"]
 fields_of_interests: ["Robotics", "Computer Vision", "Mobile Robot", "IoT"]
 technical_background: ["Python", "C/C++", "MATLAB", "Java", "ROS/ROS2", "Unity"]
 currently_learning: ["Mobile Robots", "Software Architecture", "Human-Computer Interaction"]
-hobbies: ["Running", "Cinema", "Politics and Economics", "IoT"]
+hobbies: ["Running", "Investing", "Politics and Economics", "IoT"]
 ```
 <p align="center">
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=31ndrl2posheess635vrgzryhcau&cover_image=true&theme=default">
