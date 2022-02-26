@@ -36,9 +36,11 @@ hobbies: ["Running", "Movies", "Politics and Economics", "IoT"]
 </p> -->
 <!-- https://bzwayne-cy06f6bfa-bzwayne.vercel.app -->
 
+cSD9XC5TOt1koTh8uabjMA6G
+
 <p align="center">
-  <a href="https://bzwayne-cy06f6bfa-bzwayne.vercel.app/api/view?uid=11147618695&redirect=true">
-    <img src="https://bzwayne-cy06f6bfa-bzwayne.vercel.app/api/view?uid=11147618695&cover_image=true&theme=default&bar_color=e3e3e3&bar_color_cover=true">
+  <a href="https://bzwayne-cy06f6bfa-bzwayne.vercel.app/api/view?uid=cSD9XC5TOt1koTh8uabjMA6G&redirect=true">
+    <img src="https://bzwayne-cy06f6bfa-bzwayne.vercel.app/api/view?uid=cSD9XC5TOt1koTh8uabjMA6G&cover_image=true&theme=default&bar_color=e3e3e3&bar_color_cover=true">
   </a>
 </p>
 
