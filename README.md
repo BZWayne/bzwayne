@@ -31,7 +31,7 @@ currently_learning: ["Mobile Robots", "Software Architecture", "Human-Computer I
 hobbies: ["Running", "Cinema", "Politics and Economics", "IoT"]
 ```
 
-<p align="center">
+<p align="left">
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=31ndrl2posheess635vrgzryhcau&cover_image=true&theme=default">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=31ndrl2posheess635vrgzryhcau&cover_image=true&theme=default&bar_color=e3e3e3&bar_color_cover=true">
   </a>
