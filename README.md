@@ -25,10 +25,10 @@ from: Balkhash (Kazakhstan)
 job: Robotics and Vision Engineer
 education: ["MSc in Robotics", "BSc in Mechatronics"]
 
-fields_of_interests: ["Path Planning", "Trajectory Planning", "Path Following", "Behaviour Planning", "Localization", "Sensor Fusion", "Embedded Systems"]
-technical_background: ["Graph Theory", "Optimization", "Nonlinear Control", "Real-Time Systems", "Automated Planning"]
-currently_learning: ["microROS"]
-hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
+fields_of_interests: ["Robotics", "Computer Vision", "Mobile Robot", "IoT"]
+technical_background: ["Python", "C/C++", "MATLAB", "Java", "ROS/ROS2", "Unity"]
+currently_learning: ["Mobile Robots", "Software Architecture", "Human-Computer Interaction"]
+hobbies: ["Running", "Cinema", "Politics and Economics", "IoT"]
 ```
 
 <p align="center">
