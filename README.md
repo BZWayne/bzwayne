@@ -40,5 +40,4 @@ hobbies: ["Running", "Cinema", "Politics and Economics", "IoT"]
 ```yaml
 section: spotify components info
 tutorial_path: bzwayne/bzwayne/how-to.md
-note: thanks to both of them!
 ```
