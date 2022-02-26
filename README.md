@@ -34,7 +34,7 @@ hobbies: ["Running", "Cinema", "Politics and Economics", "IoT"]
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ndrl2posheess635vrgzryhcau&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 
-<p align="center">
+<p align="right">
    <img src="https://bzwayne-cy06f6bfa-bzwayne.vercel.app/api/top-played">
 </p>
 
