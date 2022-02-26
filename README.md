@@ -31,9 +31,9 @@ currently_learning: ["Mobile Robots", "Software Architecture", "Human-Computer I
 hobbies: ["Running", "Cinema", "Politics and Economics", "IoT"]
 ```
 
-<p align="center">
-  <img alig src="https://bzwayne.vercel.app/?username=guilyx&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
-</p>
+<!-- <p align="center">
+  <img alig src="https://bzwayne.vercel.app/?username=bzwayne&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+</p> -->
 
 <p align="center">
   <a href="https://bzwayne-cy06f6bfa-bzwayne.vercel.app/api/view?uid=31ndrl2posheess635vrgzryhcau&redirect=true">
@@ -42,8 +42,18 @@ hobbies: ["Running", "Cinema", "Politics and Economics", "IoT"]
 </p>
 
 <p align="center">
-  <img src="https://bzwayne.vercel.app/api/top-played">
+  <img src="https://bzwayne-cy06f6bfa-bzwayne.vercel.app/api/top-played">
 </p>
+
+<!-- <p align="center">
+  <a href="https://bzwayne-cy06f6bfa-bzwayne.vercel.app/api/view?uid=31ndrl2posheess635vrgzryhcau&redirect=true">
+    <img src="https://bzwayne-cy06f6bfa-bzwayne.vercel.app/api/view?uid=31ndrl2posheess635vrgzryhcau&cover_image=true&theme=default&bar_color=e3e3e3&bar_color_cover=true">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://bzwayne.vercel.app/api/top-played">
+</p> -->
  
 ```yaml
 section: spotify components info
