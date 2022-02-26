@@ -22,8 +22,8 @@
 name: Bauyrzhan Zhakanov
 located_in: Genoa, Italy
 from: Balkhash, Kazakhstan
-major: Robotics Engineering
-education: University of Genoa
+job: Robotics and Vision Engineer
+education: ["MSc in Robotics Engineering", "BSc in Robotics & Mechatronics"]
 
 fields_of_interests: ["Robotics", "Computer Vision", "Mobile Robot", "IoT"]
 technical_background: ["Python", "C/C++", "MATLAB", "Java", "ROS/ROS2", "Unity"]
@@ -33,14 +33,10 @@ hobbies: ["Running", "Cinema", "Politics and Economics", "IoT"]
 
 <p align="left">
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=31ndrl2posheess635vrgzryhcau&cover_image=true&theme=default">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31ndrl2posheess635vrgzryhcau&cover_image=true&theme=default&bar_color=e3e3e3&bar_color_cover=true">
-    <img src="https://bzwayne-cy06f6bfa-bzwayne.vercel.app/api/top-played">
+    <img align="left" width="100" height="100" src="https://spotify-github-profile.vercel.app/api/view?uid=31ndrl2posheess635vrgzryhcau&cover_image=true&theme=default&bar_color=e3e3e3&bar_color_cover=true">
+    <img align="right" width="100" height="100" src="https://bzwayne-cy06f6bfa-bzwayne.vercel.app/api/top-played">
   </a>
 </p>
-
-<!-- <p align="right">
-   <img src="https://bzwayne-cy06f6bfa-bzwayne.vercel.app/api/top-played">
-</p> -->
 
  
 ```yaml
