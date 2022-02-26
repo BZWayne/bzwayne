@@ -31,9 +31,8 @@ currently_learning: ["Mobile Robots", "Software Architecture", "Human-Computer I
 hobbies: ["Running", "Cinema", "Politics and Economics", "IoT"]
 ```
 
-<p align="center">
-   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ndrl2posheess635vrgzryhcau&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
-</p>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ndrl2posheess635vrgzryhcau&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+
 
 <p align="center">
    <img src="https://bzwayne-cy06f6bfa-bzwayne.vercel.app/api/top-played">
