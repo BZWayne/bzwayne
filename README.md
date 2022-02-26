@@ -34,11 +34,14 @@ hobbies: ["Running", "Cinema", "Politics and Economics", "IoT"]
 <!-- <p align="center">
   <img alig src="https://bzwayne.vercel.app/?username=bzwayne&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p> -->
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ndrl2posheess635vrgzryhcau&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
-
-<img src="https://bzwayne-cy06f6bfa-bzwayne.vercel.app/api/top-played">
-
+<table border="0">
+ <tr>
+    [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ndrl2posheess635vrgzryhcau&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+ </tr>
+ <tr>
+    <img src="https://bzwayne-cy06f6bfa-bzwayne.vercel.app/api/top-played">
+ </tr>
+</table>
 <!-- <p align="center">
   <a href="https://bzwayne-cy06f6bfa-bzwayne.vercel.app/api/view?uid=31ndrl2posheess635vrgzryhcau&redirect=true">
     <img src="https://bzwayne-cy06f6bfa-bzwayne.vercel.app/api/view?uid=31ndrl2posheess635vrgzryhcau&cover_image=true&theme=default&bar_color=e3e3e3&bar_color_cover=true">
