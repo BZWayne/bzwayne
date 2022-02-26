@@ -30,7 +30,6 @@ technical_background: ["Python", "C/C++", "MATLAB", "Java", "ROS/ROS2", "Unity"]
 currently_learning: ["Mobile Robots", "Software Architecture", "Human-Computer Interaction"]
 hobbies: ["Running", "Cinema", "Politics and Economics", "IoT"]
 ```
-
 <p align="center">
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=31ndrl2posheess635vrgzryhcau&cover_image=true&theme=default">
     <img align="center" width="300" height="400" src="https://spotify-github-profile.vercel.app/api/view?uid=31ndrl2posheess635vrgzryhcau&cover_image=true&theme=default&bar_color=e3e3e3&bar_color_cover=true">
@@ -39,7 +38,6 @@ hobbies: ["Running", "Cinema", "Politics and Economics", "IoT"]
     <img align="center" width="500" height="500" src="https://bzwayne-cy06f6bfa-bzwayne.vercel.app/api/top-played">
   </a>
 </p>
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
