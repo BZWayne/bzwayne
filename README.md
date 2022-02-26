@@ -34,7 +34,7 @@ hobbies: ["Running", "Cinema", "Politics and Economics", "IoT"]
 <p align="left">
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=31ndrl2posheess635vrgzryhcau&cover_image=true&theme=default">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=31ndrl2posheess635vrgzryhcau&cover_image=true&theme=default&bar_color=e3e3e3&bar_color_cover=true">
-    <img src="https://bzwayne.vercel.app/api/top-played">
+    <img src="https://bzwayne-cy06f6bfa-bzwayne.vercel.app/api/top-played">
   </a>
 </p>
 
