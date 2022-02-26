@@ -30,13 +30,11 @@ technical_background: ["Python", "C/C++", "MATLAB", "Java", "ROS/ROS2", "Unity"]
 currently_learning: ["Mobile Robots", "Software Architecture", "Human-Computer Interaction"]
 hobbies: ["Running", "Cinema", "Politics and Economics", "IoT"]
 ```
-<p align="left">
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ndrl2posheess635vrgzryhcau&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
-</p>
 
-<p align="right">
+<!-- <p align="right">
    <img src="https://bzwayne-cy06f6bfa-bzwayne.vercel.app/api/top-played">
-</p>
+</p> -->
 
  
 ```yaml
@@ -44,12 +42,3 @@ section: spotify components info
 tutorial_path: bzwayne/bzwayne/how-to.md
 note: thanks to both of them!
 ```
-
-
-<!-- **:zap: Recent Activity:**
-
-<!--START_SECTION:activity-->
-
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
