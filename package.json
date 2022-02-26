@@ -1,5 +1,5 @@
 {
-  "name": "guilyx-profile-page",
+  "name": "bzwayne-profile-page",
   "version": "1.1.1",
   "description": "Github profile README.md",
   "main": "index.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/guilyx/guilyx.git"
+    "url": "git+https://github.com/bzwayne/bzwayne.git"
   },
   "author": "Andrew Young",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/guilyx/guilyx/issues"
+    "url": "https://github.com/bzwayne/bzwayne/issues"
   },
-  "homepage": "https://github.com/guilyx/guilyx#readme",
+  "homepage": "https://github.com/bzwayne/bzwayne#readme",
   "dependencies": {
     "@vercel/node": "^1.9.1",
     "axios": "^0.21.2",
