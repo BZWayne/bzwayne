@@ -35,6 +35,7 @@ hobbies: ["Running", "Cinema", "Politics and Economics", "IoT"]
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=31ndrl2posheess635vrgzryhcau&cover_image=true&theme=default">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=31ndrl2posheess635vrgzryhcau&cover_image=true&theme=default&bar_color=e3e3e3&bar_color_cover=true">
   </a>
+  <img src="https://guilyx.vercel.app/api/top-played">
 </p>
 
 <!-- <p align="right">
@@ -46,3 +47,7 @@ hobbies: ["Running", "Cinema", "Politics and Economics", "IoT"]
 section: spotify components info
 tutorial_path: bzwayne/bzwayne/how-to.md
 ```
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
