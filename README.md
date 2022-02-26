@@ -23,7 +23,7 @@ name: Bauyrzhan Zhakanov
 located_in: Genoa, Italy
 from: Balkhash, Kazakhstan
 job: Robotics and Vision Engineer
-education: ["MSc in Robotics Engineering", "BSc in Robotics & Mechatronics"]
+education: ["MSc in Robotics Engineering'23", "BSc in Robotics & Mechatronics'21"]
 
 fields_of_interests: ["Social Robotics", "Computer Vision", "Artificial Intelligence"]
 technical_background: ["Python", "C/C++", "MATLAB", "Java", "ROS/ROS2", "Unity"]
