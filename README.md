@@ -21,7 +21,7 @@
 ```yaml
 name: Bauyrzhan Zhakanov
 located_in: Genoa, Italy
-from: Balkhash (Kazakhstan)
+from: Balkhash, Kazakhstan
 job: Robotics and Vision Engineer
 education: ["MSc in Robotics Engineering", "BSc in Robotics&Mechatronics"]
 
