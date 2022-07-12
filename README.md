@@ -25,7 +25,7 @@ from: Balkhash, Kazakhstan
 job: Robotics Engineer
 education: ["MSc in Robotics Engineering'23", "BSc in Robotics & Mechatronics'21"]
 
-fields_of_interests: ["Social Robotics", "Vertical Farming", "Computer Vision", "Artificial Intelligence"]
+fields_of_interests: ["Social Robotics", "Vertical Farming"]
 technical_background: ["Python", "C/C++", "MATLAB", "Java", "ROS/ROS2", "Unity"]
 hobbies: ["History", "Investments", "Politics & Economics", "IoT"]
 ```
