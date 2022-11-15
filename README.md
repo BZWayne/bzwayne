@@ -23,11 +23,11 @@ name: Bauyrzhan Zhakanov
 located_in: Espoo, Finland
 from: Balkhash, Kazakhstan
 job: Robotics Engineer
-education: ["MSc in Robotics Engineering'23", "BSc in Robotics & Mechatronics'21"]
+education: ["MSc in Robotics Engineering'23 at Unige, Italy", "BSc in Robotics & Mechatronics'21 at NU, Kazakhstan"]
 
-fields_of_interests: ["Social Robotics", "Vertical Farming"]
-technical_background: ["Python", "C/C++", "MATLAB", "Java", "ROS/ROS2"]
-hobbies: ["History", "Investments", "Politics & Economics", "IoT"]
+fields_of_interests: ["Social Robotics", "Green Technology", "Mobile Robotics", "VR"]
+technical_background: ["Python", "C/C++", "MATLAB", "ROS/ROS2", "Webservices", "Cloud services"]
+hobbies: ["Politics & History", "Entrepreneurship & Innovation", "Science and IOT"]
 ```
 <!-- p align="center">
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=31ndrl2posheess635vrgzryhcau&cover_image=true&theme=default">
