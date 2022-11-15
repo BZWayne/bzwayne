@@ -29,7 +29,7 @@ fields_of_interests: ["Social Robotics", "Vertical Farming"]
 technical_background: ["Python", "C/C++", "MATLAB", "Java", "ROS/ROS2"]
 hobbies: ["History", "Investments", "Politics & Economics", "IoT"]
 ```
-<p align="center">
+<!-- p align="center">
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=31ndrl2posheess635vrgzryhcau&cover_image=true&theme=default">
     <img align="center" width="300" height="400" src="https://spotify-github-profile.vercel.app/api/view?uid=31ndrl2posheess635vrgzryhcau&cover_image=true&theme=default&bar_color=e3e3e3&bar_color_cover=true">
   </a>
@@ -40,4 +40,4 @@ hobbies: ["History", "Investments", "Politics & Economics", "IoT"]
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-</p>
+</p> -->
