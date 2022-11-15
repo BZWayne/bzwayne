@@ -20,9 +20,9 @@
 
 ```yaml
 name: Bauyrzhan Zhakanov
-located_in: Espoo, Finland
+located_in: Genoa, Italy
 from: Balkhash, Kazakhstan
-job: Robotics Engineer
+job: Robotics and Computer Vision Engineer
 education: ["MSc in Robotics Engineering'23 at Unige, Italy", "BSc in Robotics & Mechatronics'21 at NU, Kazakhstan"]
 
 fields_of_interests: ["Social Robotics", "Green Technology", "Mobile Robotics", "VR"]
