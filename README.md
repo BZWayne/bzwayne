@@ -13,7 +13,7 @@ fields_of_interests: ["Social Robotics", "Green Technology", "Mobile Robotics", 
 technical_background: ["Python", "C/C++", "MATLAB", "ROS/ROS2", "Webservices", "Cloud services"]
 hobbies: ["Politics & History", "Entrepreneurship & Innovation", "Science and IOT"]
 ```
-<p align="center">
+<!-- <p align="center"> -->
 <br/>
 <!-- <a href="https://twitter.com/spida_rwin">
   <img alt="guilyx | Twitter" width="50px" src="https://user-images.githubusercontent.com/43545812/144034996-602b144a-16e1-41cc-99e7-c6040b20dcaf.png"/>
@@ -27,7 +27,7 @@ hobbies: ["Politics & History", "Entrepreneurship & Innovation", "Science and IO
 <a href="https://open.spotify.com/user/31ndrl2posheess635vrgzryhcau">
   <img alt="bzwayne's Spotify" width="30px" src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png" />
 </a>
-</p>
+<!-- </p> -->
 <!-- p align="center">
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=31ndrl2posheess635vrgzryhcau&cover_image=true&theme=default">
     <img align="center" width="300" height="400" src="https://spotify-github-profile.vercel.app/api/view?uid=31ndrl2posheess635vrgzryhcau&cover_image=true&theme=default&bar_color=e3e3e3&bar_color_cover=true">
