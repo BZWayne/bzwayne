@@ -7,7 +7,7 @@ education: ["MSc in Robotics Engineering'23 at Unige, Italy", "BSc in Robotics &
 
 fields_of_interests: ["Social Robotics", "Green Technology", "Mobile Robotics", "VR"]
 technical_background: ["Python", "C/C++", "MATLAB", "ROS/ROS2", "Webservices", "Cloud services"]
-hobbies: ["Politics & History", "Entrepreneurship & Innovation", "Science and IOT"]
+hobbies: ["Politics & History", "Entrepreneurship & Innovation", "Science and IoT"]
 ```
 <p align="center">
 <br/>
