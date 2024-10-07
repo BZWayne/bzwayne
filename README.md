@@ -1,15 +1,14 @@
 ```yaml
 name: Bauyrzhan Zhakanov
-located_in: Orebro, Sweden
+located_in: Tallinn, Estonia
 from: Balkhash, Kazakhstan
-job: Robotics and Computer Vision Engineer
-education: ["MSc in Robotics Engineering'23 at University of Genoa, Italy",
-            "Master Thesis at Orebro University, Sweden",
-            "BSc in Robotics & Mechatronics'21 at Nazarbayev University, Kazakhstan"]
+job: Engineer
+education: ["PhD at Tallinn University of Technology, Estonia"
+            "MSc at University of Genoa, Italy",
+            "BSc at Nazarbayev University, Kazakhstan"]
 
-fields_of_interests: ["Social Robotics", "Green Technology", "Mobile Robotics", "VR"]
-technical_background: ["Python", "C/C++", "MATLAB", "ROS/ROS2", "Webservices", "Cloud services"]
-hobbies: ["Politics & History", "Entrepreneurship & Innovation", "Science and IoT"]
+fields_of_interests: ["Biorobotics", "Green Technology", "Computer Vision", "VR"]
+hobbies: ["Politics & History", "Entrepreneurship & Innovation", "Hiking", "Cycling"]
 ```
 <p align="center">
 <br/>
